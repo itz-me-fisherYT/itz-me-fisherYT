@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @itz-me-fisherYT
 - 📫 How to reach me
-- Discord: itz_me_fisherYT or lifedupey
+- Email: Lfish94ll@gmail.com
 - 😄 Pronouns: he/him
 
 <!---
