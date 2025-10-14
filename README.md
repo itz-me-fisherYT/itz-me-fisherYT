@@ -29,7 +29,7 @@ Welcome! This is a showcase of some of the projects I've worked on, including bo
 
 - **📺 CjsGoose Discord Bot**  
   My bot for the server and channel: CjsGoose.  
-   [CjsGoose Code](https://github.com/itz-me-fisherYT/Goose-Discord-Bot/) |[YouTube](https://www.youtube.com/@cjsgoose) | [Discord](https://discord.gg/4dj4fvKKRv)  
+   [Discord Bot Code For CjsGoose](https://github.com/itz-me-fisherYT/Goose-Discord-Bot/) |[YouTube](https://www.youtube.com/@cjsgoose) | [Discord](https://discord.gg/4dj4fvKKRv)  
 
 ## 💼 Staff Work at EverCore SMP
 
