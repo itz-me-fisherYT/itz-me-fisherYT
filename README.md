@@ -34,7 +34,7 @@ Welcome! This is a showcase of some of the projects I've worked on, including bo
 ## 💼 Staff Work at EverCore SMP
 
 - Contributions as staff member in the Minecraft server At PureBliss.minehut.gg | Join today!.  
-  [EverCore Discord](https://discord.gg/Q9MPyQ4z24)  
+  [PureBliss Discord](https://discord.gg/Q9MPyQ4z24)  
 
 ## 📫 Contact
 
