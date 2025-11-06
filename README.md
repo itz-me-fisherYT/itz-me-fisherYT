@@ -33,10 +33,11 @@ Welcome! This is a showcase of some of the projects I've worked on, including bo
 
 ## 💼 Staff Work at EverCore SMP
 
-- Contributions as staff member in the Minecraft server EverCore SMP.  
-  [EverCore Discord](https://discord.gg/QzhUbbfFAf)  
+- Contributions as staff member in the Minecraft server At PureBliss.minehut.gg | Join today!.  
+  [EverCore Discord](https://discord.gg/Q9MPyQ4z24)  
 
 ## 📫 Contact
 
-- Discord: [Luke Fisher](https://discord.com/users/1319567972335091773)  
-- GitHub: [itz-me-fisherYT](https://github.com/itz-me-fisherYT)  
+- Discord: [Luke Fisher](https://discord.com/users/1319567972335091773)
+- Guns.lol: [Guns.Lol](https://guns.lol/itzrealfisher)
+- GitHub: [itz-me-fisherYT](https://github.com/itz-me-fisherYT) 
